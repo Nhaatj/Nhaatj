@@ -23,7 +23,6 @@
     <img align="left" width="26px" src="./img/Discord.js.png" alt="Discord.js"/>
 </a>
 <br>
-
 - Tools
 <a href="https://code.visualstudio.com/">
     <img align="left" width="26px" src="./img/vscode.png" alt="Visual Studio Code" />
