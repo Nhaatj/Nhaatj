@@ -22,6 +22,7 @@
 <a href="https://discord.js.org/">
     <img align="left" width="26px" src="./img/Discord.js.png" alt="Discord.js"/>
 </a>
+<br>
 
 - Tools
 <a href="https://code.visualstudio.com/">
