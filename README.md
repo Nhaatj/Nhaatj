@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://nodejs.org/">
-    <img align="left" width="26px" src="./img/nodejs.png" alt="Node JS"/>
+    <img align="left" width="26px" src="./img/nodejs2.png" alt="Node JS"/>
 </a>
 
 <a href="https://www.adobe.com/products/photoshop.html">
