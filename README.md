@@ -10,6 +10,7 @@
 ### Languages and Tool:
 
 - Languages
+<img align="left" alt="https://i.imgur.com/LwSdAlE.png" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <a align="left" width="26px" href="https://www.cprogramming.com/">
     <img src="./img/c.png" alt="C">
 </a>
