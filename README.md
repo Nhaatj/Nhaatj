@@ -1,12 +1,9 @@
 <h1 align="center">Nhaatj💙</h1>
-
-<div style="margin: auto; width : fit-content;">
-        <audio controls loop autoplay >
-            <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/ogg">
-            <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/mpge">
-            Your browser does not support the audio element.
-        </audio>
-    </div>
+<audio controls loop autoplay style="margin: auto; width : fit-content;">
+    <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/ogg">
+    <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/mpge">
+    Your browser does not support the audio element.
+</audio>
 
 
 - 💙 I'm learning everything now.
