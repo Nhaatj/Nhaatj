@@ -1,11 +1,20 @@
 <h1 align="center">Nhaatj💙</h1>
-<h3 align="center">Welcome to my Github.</h3>
+
+<div style="margin: auto; width : fit-content;">
+        <audio controls loop autoplay >
+            <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/ogg">
+            <source src="./audio/Gustixa - lemon tree (320 kbps).mp3" type="audio/mpge">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
 
 - 💙 I'm learning everything now.
 - ❤️ But I'm currently learning **web security** mainly.
 - 💚 In 2021, I'm still a student in university.
 - 🤍 These are just a little of my very small project.
 - 💜 I'm making media production.
+
 
 Another Github <a href="https://github.com/iwhiww">iwhiww</a>.
 
