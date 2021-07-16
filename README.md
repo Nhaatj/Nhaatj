@@ -1,6 +1,6 @@
 <h1 align="center">Nhaatj💙</h1>
 
-<a href="https://www.youtube.com/watch?v=MunnYFmqWYo">
+<a href="https://www.youtube.com/watch?v=MunnYFmqWYo&t=15s">
     IwhIww
 </a>
 
